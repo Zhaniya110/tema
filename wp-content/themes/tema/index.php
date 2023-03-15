@@ -13,6 +13,7 @@
     <title>Tema</title>
 </head>
 <body>
-    
+    <header>Хедер</header>
+    <footer>Футер</footer>
 </body>
 </html>
